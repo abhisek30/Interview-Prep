@@ -1,0 +1,13 @@
+40
+8
+3-res2
+4-res2
+3-res2
+4-res2
+8-res1
+4-res2
+4-res2
+32-res2
+7-res2
+7-res2
+8 and 32
